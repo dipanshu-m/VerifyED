@@ -1,16 +1,12 @@
 # VerifyED
 
-
 ## Contributing to this Project
-
 
 ## Setup and Installation
 
-
 ## Build and Run
 
-
-## Guildlines to list issues:
+## Guildlines to list issues
 
 1. Create your namespace by copying the template docs written.
 2. Fill in the required fields and make sure to add reference materials.
